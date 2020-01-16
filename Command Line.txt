@@ -1,0 +1,18 @@
+
+
+pwd -  print working directory
+
+cd (for change directory)
+
+ List the contents of the current folder
+ls
+
+ls FOLDER_NAME
+
+
+.  “list the contents of the current folder”
+
+(..) to refer to the parent folder
+
+
+~ as shorthand for the absolute path to the home directory of the current user.
