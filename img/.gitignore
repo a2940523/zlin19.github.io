@@ -1,0 +1,4 @@
+# This is the gitignore file, which lists files that should not be added to git
+
+# ignore Mac system files
+.DS_Store
